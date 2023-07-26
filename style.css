@@ -1,0 +1,35 @@
+.topimg{
+    display:block;
+    position: relative;
+}
+
+.firsttxt {
+    display: block;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+
+
+.hero{
+    display: block;
+    background-color: #E8FFCE;
+}
+
+.contact{
+    display: block;
+    align-items: center;
+    background-color: #ACFADF;
+    text-align: center;
+    padding: 20px;
+}
+
+.lead{
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer{
+    display: block;
+    background-color: #7C73C0;
+    color:#E8FFCE;
+}
